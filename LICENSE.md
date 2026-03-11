@@ -1,11 +1,12 @@
+---English---
+
 MIT License
 
 Copyright (c) 2026 NEO1842
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+in the Software without restriction, including without limitation the rights　to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software.
 
 Conditions
@@ -15,13 +16,16 @@ Conditions
 Disclaimer:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
-
+---
+---Japanese---
 
 MITライセンス
 
 Copyright (c) 2026 NEO1842
 
-本ソフトウェアおよび関連するドキュメントファイル（以下「ソフトウェア」 ）のコピーを取得したすべての人に対し、ソフトウェアを無制限に取り扱うことを許可します。これには、ソフトウェアの使用、コピー、変更、統合、公開、配布、サブライセンス、および/または販売する権利が含まれます。
+本ソフトウェアおよび関連ドキュメントファイル（以下「本ソフトウェア」）のコピーを入手したすべての人物は、
+本ソフトウェアを無制限に扱うことができ、これには本ソフトウェアのコピーの使用、コピー、変更、統合、公開、配布、サブライセンス、
+および/または販売の権利が含まれますが、これに限定されません。
 
 条件
 1. 本ソフトウェアを再配布する場合、元のリポジトリURL（https://github.com/NEO1842/Python）を含める必要があります。
