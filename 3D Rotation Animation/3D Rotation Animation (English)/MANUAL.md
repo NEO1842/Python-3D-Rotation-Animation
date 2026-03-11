@@ -1,3 +1,5 @@
+This project was created with the help of AI tools.
+
 3D Shape Rotation Animation Interactive animation software for rotating shapes 
 Keyboard shortcut keys 
 
